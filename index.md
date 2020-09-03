@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# UTKASS Official Mobile Application
+> This mobile application was made with the goal to provide members of UTKASS a platform to stay connected to announcements and events. The project was orignially created with the goal of providing an opportunity to gain experience with mobile development for executive members of UTKASS by [Ted Gitae Lim](https://github.com/gtaelim4).
 
-You can use the [editor on GitHub](https://github.com/utkass/utkass.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The app provides a platform for members of UTKASS club at UTSC to view and track announcements and past/upcoming events.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have a live iOS app that can be found on the Apple's App Store. Application only supports iOS currently.
 
-### Markdown
+Support for Android is coming soon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Table of Contents
+- [Screenshots](#screenshots)
+- [Description](#description)
+- [Collaborators](#collaborators)
+- [Privacy Policy](#policy)
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+## Description
 
-- Bulleted
-- List
+## Powered By
+- Google Firebase - Backend database and user authentication
 
-1. Numbered
-2. List
+## Collaborators
+- [Ted Gitae Lim](https://github.com/gtaelim4)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utkass/utkass.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Policy
