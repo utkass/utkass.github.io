@@ -24,4 +24,4 @@ Support for Android is coming soon.
 - [Ted Gitae Lim](https://github.com/gtaelim4)
 
 ## Privacy Policy
-- Click [here](https://github.com/utkass.io/privacypolicy) to view our privacy policy
+- Click [here](https://utkass.github.io/privacypolicy) to view our privacy policy
