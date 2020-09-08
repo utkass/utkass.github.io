@@ -11,9 +11,12 @@ Mobile application to provide members of UTKASS a platform to stay connected to 
 ## Supported Platforms
 These are the current supported platforms for our mobile application:
 - iOS 13.7
-- Android coming soon
+- Android 8.0 (Oreo)+
 
 ## Screenshots
+### iOS
+
+### Android
 
 ## Description
 
