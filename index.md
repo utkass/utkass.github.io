@@ -19,6 +19,13 @@ These are the current supported platforms for our mobile application:
 ### Android
 
 ## Description
+Both iOS and Android app features screens for announcement, calendar and profile post sign in.
+
+Upon start of app user must login through their UofT email.
+- If signing in for the first time, reset password before signing in.
+
+After signing in you can view the one of the three screens. Announcement screen shows a list of announcements made starting from the most recent one. In the calendar screen you can navigate through a calendar at the top or view the list of events for a specific date. Profile screen displays personal information such as name, UofT email and student number. Since only verified members of UTKASS will be able to sign in, the profile page is proof that you are a member. Thus, present this page to access benefits of being a UTKASS member.
+
 
 ## Powered By
 - Google Firebase - Backend database and user authentication
