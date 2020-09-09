@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: UTKASS Mobile Application
 description: Product page for UTKASS official iOS app
+plugins:
+  - jekyll-seo-tag
