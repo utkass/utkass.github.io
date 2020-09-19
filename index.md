@@ -17,7 +17,6 @@ These are the current supported platforms for our mobile application:
 ### iOS
 <img src="./img/ios-login.png" alt="ios login screen" height="500"/>
 <img src="./img/ios-reset.png" alt="ios reset password screen" height="500"/>
-<img src="./img/ios-calendar.png" alt="ios calendar screen" height="500"/>
 <img src="./img/ios-event-detail.png" alt="ios event detail screen" height="500"/>
 <img src="./img/ios-profile.png" alt="ios profile screen" height="500"/>
 
@@ -25,7 +24,6 @@ These are the current supported platforms for our mobile application:
 <img src="./img/android-login.png" alt="android login screen" height="500"/>
 <img src="./img/android-reset.png" alt="android reset password screen" height="500"/>
 <img src="./img/android-announcements.png" alt="android announcements screen" height="500"/>
-<img src="./img/android-calendar.png" alt="android login screen" height="500"/>
 <img src="./img/android-profile.png" alt="android login screen" height="500"/>
 
 ## Description
