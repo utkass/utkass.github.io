@@ -10,19 +10,21 @@ Mobile application to provide members of UTKASS a platform to stay connected to 
 
 ## Supported Platforms
 These are the current supported platforms for our mobile application:
-- iOS 13.7
+- iOS 13.5+
 - Android 8.0 (Oreo)+
 
 ## Screenshots
 ### iOS
 <img src="./img/ios-login.png" alt="ios login screen" height="500"/>
 <img src="./img/ios-reset.png" alt="ios reset password screen" height="500"/>
+<img src="./img/ios-events.png" alt="ios events screen" height="500"/>
 <img src="./img/ios-profile.png" alt="ios profile screen" height="500"/>
 
 ### Android
 <img src="./img/android-login.png" alt="android login screen" height="500"/>
 <img src="./img/android-reset.png" alt="android reset password screen" height="500"/>
 <img src="./img/android-announcements.png" alt="android announcements screen" height="500"/>
+<img src="./img/android-events.png" alt="android events screen" height="500"/>
 <img src="./img/android-profile.png" alt="android login screen" height="500"/>
 
 ## Description
