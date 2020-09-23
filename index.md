@@ -40,7 +40,7 @@ After signing in you can view the one of the three screens. Announcement screen 
 
 ## Collaborators
 - [Ted Gitae Lim](https://github.com/gtaelim4)
-- [Jiyeon Baek] (https://github.com/sophiebaek)
+- [Jiyeon Baek](https://github.com/sophiebaek)
 
 ## Privacy Policy
 - Click [here](https://utkass.github.io/privacypolicy) to view our privacy policy
