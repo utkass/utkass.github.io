@@ -17,6 +17,7 @@ These are the current supported platforms for our mobile application:
 ### iOS
 <img src="./img/ios-login.png" alt="ios login screen" height="500"/>
 <img src="./img/ios-reset.png" alt="ios reset password screen" height="500"/>
+<img src="./img/ios-announcements.png" alt="ios announcements screen" height="500"/>
 <img src="./img/ios-events.png" alt="ios events screen" height="500"/>
 <img src="./img/ios-profile.png" alt="ios profile screen" height="500"/>
 
